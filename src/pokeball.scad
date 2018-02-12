@@ -1,3 +1,11 @@
+/*
+
+Pokeball v1.0;
+
+
+*/
+
+
 pokeball_size = 50;
 inner_size = 48;
 button_size = 15;
@@ -66,7 +74,7 @@ module button(){
 
 
 color("white")button();
-
+/*
 color("black")button_spacer();
 color("black")spacer();
 shell();
